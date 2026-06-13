@@ -2,6 +2,8 @@
 
 **Real flights on the flat-earth map — see for yourself.**
 
+### 🌐 Live site: **<https://mattohan567.github.io/flat-flights/>**
+
 A zero-build static site that plots the famous flights from flat-earth debates — live positions and recorded ADS-B paths with altitude — on the north-pole-centered **azimuthal equidistant projection** (the classic "flat earth" map). For every flight it shows, side by side:
 
 - the **great-circle distance** (the globe's distance),
