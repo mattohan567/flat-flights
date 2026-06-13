@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-06-13T01:57:48.165Z",
+  "updated": "2026-06-13T02:27:38.509Z",
   "tracks": {
     "CX840": [
       {
@@ -17,8 +17,8 @@
         "date": "2026-06-12",
         "file": "data/tracks/EK216/2026-06-12.json",
         "icao24": "89655f",
-        "points": 106,
-        "duration_s": 6732,
+        "points": 128,
+        "duration_s": 8568,
         "complete": false
       }
     ]
