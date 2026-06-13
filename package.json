@@ -1,0 +1,11 @@
+{
+  "name": "flat-flights",
+  "private": true,
+  "type": "module",
+  "description": "Real flights on the flat-earth (azimuthal equidistant) map — static site, no build step. package.json exists only so Node treats the scripts as ES modules.",
+  "scripts": {
+    "serve": "python3 -m http.server",
+    "distances": "node scripts/compute-distances.mjs",
+    "record": "node scripts/record-tracks.mjs"
+  }
+}

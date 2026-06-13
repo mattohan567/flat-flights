@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flat Flights — famous flights on the flat-earth map</title>
+  <meta name="description" content="Live and historical flights from flat-earth debates, projected onto the azimuthal equidistant (flat earth) map. Compare real great-circle distances with flat-map distances and the speeds they would imply.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%230b1d2a' stroke='%2366d9e8' stroke-width='6'/><circle cx='50' cy='50' r='6' fill='%23e9f1f7'/></svg>">
+  <script defer src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"
+          integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i"
+          crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"
+          integrity="sha384-Ukv1p/xTma6P4/2bY5KzWBw+ydSpXmhCMtyciIQVDJ1RmOxtCYNMF1uXT9T63H67"
+          crossorigin="anonymous"></script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+  <header id="topbar">
+    <h1>Flat Flights</h1>
+    <p class="tagline">Real flights on the flat-earth map — see for yourself</p>
+    <div id="live-status" class="status-pill status-idle" title="Live data: airplanes.live">live: starting…</div>
+  </header>
+
+  <aside id="sidebar">
+    <div id="filters"></div>
+    <ul id="flight-list"></ul>
+    <div id="sidebar-foot">
+      <label id="basemap-toggle-wrap" hidden>
+        <input type="checkbox" id="basemap-toggle"> Gleason 1892 basemap
+      </label>
+    </div>
+  </aside>
+
+  <main id="map">
+    <canvas id="canvas-base"></canvas>
+    <canvas id="canvas-flights"></canvas>
+    <div id="map-events"></div>
+    <div id="tooltip" hidden></div>
+    <div id="legend"></div>
+    <div id="attribution">
+      Live data <a href="https://airplanes.live" target="_blank" rel="noopener">airplanes.live</a> ·
+      tracks <a href="https://adsb.lol" target="_blank" rel="noopener">adsb.lol</a> (ODbL) ·
+      basemap <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> ·
+      <a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">source</a>
+    </div>
+  </main>
+
+  <section id="panel" hidden>
+    <button id="panel-close" aria-label="Close">×</button>
+    <div id="panel-content"></div>
+  </section>
+</body>
+</html>

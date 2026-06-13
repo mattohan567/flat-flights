@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "updated": "2026-06-13T01:57:48.165Z",
+  "tracks": {
+    "CX840": [
+      {
+        "date": "2026-06-12",
+        "file": "data/tracks/CX840/2026-06-12.json",
+        "icao24": "789269",
+        "points": 17,
+        "duration_s": 441,
+        "complete": false
+      }
+    ],
+    "EK216": [
+      {
+        "date": "2026-06-12",
+        "file": "data/tracks/EK216/2026-06-12.json",
+        "icao24": "89655f",
+        "points": 106,
+        "duration_s": 6732,
+        "complete": false
+      }
+    ]
+  }
+}
