@@ -1,7 +1,17 @@
 {
   "v": 1,
-  "updated": "2026-06-13T11:24:53.047Z",
+  "updated": "2026-06-13T18:43:54.276Z",
   "tracks": {
+    "CI008": [
+      {
+        "date": "2026-06-13",
+        "file": "data/tracks/CI008/2026-06-13.json",
+        "icao24": "89901a",
+        "points": 38,
+        "duration_s": 888,
+        "complete": false
+      }
+    ],
     "CX840": [
       {
         "date": "2026-06-13",
@@ -15,8 +25,8 @@
         "date": "2026-06-12",
         "file": "data/tracks/CX840/2026-06-12.json",
         "icao24": "789269",
-        "points": 17,
-        "duration_s": 441,
+        "points": 286,
+        "duration_s": 55149,
         "complete": false
       }
     ],
@@ -37,6 +47,16 @@
         "icao24": "76cce7",
         "points": 92,
         "duration_s": 5019,
+        "complete": false
+      }
+    ],
+    "SQ24": [
+      {
+        "date": "2026-06-13",
+        "file": "data/tracks/SQ24/2026-06-13.json",
+        "icao24": "76cce4",
+        "points": 17,
+        "duration_s": 1148,
         "complete": false
       }
     ]
