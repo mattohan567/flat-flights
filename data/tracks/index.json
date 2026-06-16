@@ -1,8 +1,16 @@
 {
   "v": 1,
-  "updated": "2026-06-16T14:27:19.679Z",
+  "updated": "2026-06-16T20:19:40.133Z",
   "tracks": {
     "CI008": [
+      {
+        "date": "2026-06-16",
+        "file": "data/tracks/CI008/2026-06-16.json",
+        "icao24": "89901c",
+        "points": 94,
+        "duration_s": 9648,
+        "complete": false
+      },
       {
         "date": "2026-06-15",
         "file": "data/tracks/CI008/2026-06-15.json",
@@ -30,11 +38,19 @@
     ],
     "CX840": [
       {
+        "date": "2026-06-16",
+        "file": "data/tracks/CX840/2026-06-16.json",
+        "icao24": "789218",
+        "points": 21,
+        "duration_s": 920,
+        "complete": false
+      },
+      {
         "date": "2026-06-15",
         "file": "data/tracks/CX840/2026-06-15.json",
         "icao24": "78926a",
-        "points": 37,
-        "duration_s": 5062,
+        "points": 94,
+        "duration_s": 41525,
         "complete": false
       },
       {
@@ -67,8 +83,8 @@
         "date": "2026-06-16",
         "file": "data/tracks/CX841/2026-06-16.json",
         "icao24": "789201",
-        "points": 26,
-        "duration_s": 536,
+        "points": 114,
+        "duration_s": 46179,
         "complete": false
       },
       {
@@ -132,12 +148,20 @@
     ],
     "LX40": [
       {
+        "date": "2026-06-16",
+        "file": "data/tracks/LX40/2026-06-16.json",
+        "icao24": "4b1920",
+        "points": 126,
+        "duration_s": 7346,
+        "complete": false
+      },
+      {
         "date": "2026-06-15",
         "file": "data/tracks/LX40/2026-06-15.json",
         "icao24": "4b191d",
-        "points": 125,
-        "duration_s": 7209,
-        "complete": false
+        "points": 285,
+        "duration_s": 38978,
+        "complete": true
       }
     ],
     "QF28": [
@@ -173,8 +197,8 @@
         "date": "2026-06-15",
         "file": "data/tracks/SQ23/2026-06-15.json",
         "icao24": "76cce1",
-        "points": 163,
-        "duration_s": 52551,
+        "points": 190,
+        "duration_s": 58915,
         "complete": false
       },
       {
@@ -195,6 +219,14 @@
       }
     ],
     "SQ24": [
+      {
+        "date": "2026-06-16",
+        "file": "data/tracks/SQ24/2026-06-16.json",
+        "icao24": "76cce2",
+        "points": 21,
+        "duration_s": 1432,
+        "complete": false
+      },
       {
         "date": "2026-06-15",
         "file": "data/tracks/SQ24/2026-06-15.json",
