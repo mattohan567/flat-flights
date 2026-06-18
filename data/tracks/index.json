@@ -1,8 +1,16 @@
 {
   "v": 1,
-  "updated": "2026-06-18T12:32:47.259Z",
+  "updated": "2026-06-18T19:36:50.167Z",
   "tracks": {
     "CI008": [
+      {
+        "date": "2026-06-18",
+        "file": "data/tracks/CI008/2026-06-18.json",
+        "icao24": "89901b",
+        "points": 41,
+        "duration_s": 949,
+        "complete": false
+      },
       {
         "date": "2026-06-16",
         "file": "data/tracks/CI008/2026-06-16.json",
@@ -79,6 +87,14 @@
       }
     ],
     "CX841": [
+      {
+        "date": "2026-06-18",
+        "file": "data/tracks/CX841/2026-06-18.json",
+        "icao24": "780abd",
+        "points": 3,
+        "duration_s": 81,
+        "complete": false
+      },
       {
         "date": "2026-06-17",
         "file": "data/tracks/CX841/2026-06-17.json",
@@ -159,17 +175,17 @@
         "date": "2026-06-18",
         "file": "data/tracks/LX40/2026-06-18.json",
         "icao24": "4b1921",
-        "points": 54,
-        "duration_s": 1375,
+        "points": 130,
+        "duration_s": 8625,
         "complete": false
       },
       {
         "date": "2026-06-17",
         "file": "data/tracks/LX40/2026-06-17.json",
         "icao24": "4b191f",
-        "points": 127,
-        "duration_s": 7342,
-        "complete": false
+        "points": 295,
+        "duration_s": 40704,
+        "complete": true
       },
       {
         "date": "2026-06-16",
@@ -224,6 +240,16 @@
         "complete": false
       }
     ],
+    "SA280": [
+      {
+        "date": "2026-06-18",
+        "file": "data/tracks/SA280/2026-06-18.json",
+        "icao24": "00b1f2",
+        "points": 13,
+        "duration_s": 370,
+        "complete": false
+      }
+    ],
     "SQ23": [
       {
         "date": "2026-06-16",
@@ -259,6 +285,14 @@
       }
     ],
     "SQ24": [
+      {
+        "date": "2026-06-18",
+        "file": "data/tracks/SQ24/2026-06-18.json",
+        "icao24": "76cce1",
+        "points": 20,
+        "duration_s": 1381,
+        "complete": false
+      },
       {
         "date": "2026-06-16",
         "file": "data/tracks/SQ24/2026-06-16.json",
