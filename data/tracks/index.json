@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-06-20T05:44:26.710Z",
+  "updated": "2026-06-20T11:26:30.410Z",
   "tracks": {
     "CI008": [
       {
@@ -133,7 +133,7 @@
         "date": "2026-06-19",
         "file": "data/tracks/EK216/2026-06-19.json",
         "icao24": "89655d",
-        "points": 248,
+        "points": 255,
         "duration_s": 92054,
         "complete": false
       },
@@ -263,8 +263,8 @@
         "date": "2026-06-19",
         "file": "data/tracks/SQ23/2026-06-19.json",
         "icao24": "76cce1",
-        "points": 97,
-        "duration_s": 5033,
+        "points": 160,
+        "duration_s": 47163,
         "complete": false
       },
       {
