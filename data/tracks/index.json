@@ -1,8 +1,16 @@
 {
   "v": 1,
-  "updated": "2026-06-19T19:09:57.504Z",
+  "updated": "2026-06-20T05:44:26.710Z",
   "tracks": {
     "CI008": [
+      {
+        "date": "2026-06-19",
+        "file": "data/tracks/CI008/2026-06-19.json",
+        "icao24": "89901b",
+        "points": 93,
+        "duration_s": 4210,
+        "complete": false
+      },
       {
         "date": "2026-06-18",
         "file": "data/tracks/CI008/2026-06-18.json",
@@ -25,14 +33,6 @@
         "icao24": "89901c",
         "points": 89,
         "duration_s": 4114,
-        "complete": false
-      },
-      {
-        "date": "2026-06-14",
-        "file": "data/tracks/CI008/2026-06-14.json",
-        "icao24": "89901c",
-        "points": 53,
-        "duration_s": 3262,
         "complete": false
       },
       {
@@ -130,6 +130,14 @@
     ],
     "EK216": [
       {
+        "date": "2026-06-19",
+        "file": "data/tracks/EK216/2026-06-19.json",
+        "icao24": "89655d",
+        "points": 248,
+        "duration_s": 92054,
+        "complete": false
+      },
+      {
         "date": "2026-06-18",
         "file": "data/tracks/EK216/2026-06-18.json",
         "icao24": "896523",
@@ -160,14 +168,6 @@
         "points": 474,
         "duration_s": 57721,
         "complete": true
-      },
-      {
-        "date": "2026-06-12",
-        "file": "data/tracks/EK216/2026-06-12.json",
-        "icao24": "89655f",
-        "points": 221,
-        "duration_s": 16137,
-        "complete": false
       }
     ],
     "LX40": [
