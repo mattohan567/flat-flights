@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-06-23T12:16:07.364Z",
+  "updated": "2026-06-23T19:19:19.889Z",
   "tracks": {
     "CI008": [
       {
@@ -172,6 +172,14 @@
     ],
     "LA801": [
       {
+        "date": "2026-06-23",
+        "file": "data/tracks/LA801/2026-06-23.json",
+        "icao24": "e8026c",
+        "points": 86,
+        "duration_s": 3182,
+        "complete": false
+      },
+      {
         "date": "2026-06-22",
         "file": "data/tracks/LA801/2026-06-22.json",
         "icao24": "e8026c",
@@ -269,6 +277,14 @@
       }
     ],
     "SA280": [
+      {
+        "date": "2026-06-23",
+        "file": "data/tracks/SA280/2026-06-23.json",
+        "icao24": "00b1f4",
+        "points": 19,
+        "duration_s": 486,
+        "complete": false
+      },
       {
         "date": "2026-06-18",
         "file": "data/tracks/SA280/2026-06-18.json",
