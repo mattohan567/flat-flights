@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-06-29T06:05:58.038Z",
+  "updated": "2026-06-29T13:15:29.042Z",
   "tracks": {
     "CI008": [
       {
@@ -133,7 +133,7 @@
         "date": "2026-06-28",
         "file": "data/tracks/EK216/2026-06-28.json",
         "icao24": "89645a",
-        "points": 183,
+        "points": 241,
         "duration_s": 86884,
         "complete": false
       },
