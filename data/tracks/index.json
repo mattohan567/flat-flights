@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-06-30T19:06:01.771Z",
+  "updated": "2026-07-01T05:54:41.199Z",
   "tracks": {
     "CI008": [
       {
@@ -322,11 +322,11 @@
     ],
     "SA280": [
       {
-        "date": "2026-06-29",
-        "file": "data/tracks/SA280/2026-06-29.json",
-        "icao24": "00b1f2",
-        "points": 32,
-        "duration_s": 994,
+        "date": "2026-06-30",
+        "file": "data/tracks/SA280/2026-06-30.json",
+        "icao24": "00b1f4",
+        "points": 100,
+        "duration_s": 56690,
         "complete": false
       },
       {
