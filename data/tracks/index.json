@@ -1,8 +1,16 @@
 {
   "v": 1,
-  "updated": "2026-07-02T18:48:25.732Z",
+  "updated": "2026-07-03T04:56:42.843Z",
   "tracks": {
     "CI008": [
+      {
+        "date": "2026-07-02",
+        "file": "data/tracks/CI008/2026-07-02.json",
+        "icao24": "899018",
+        "points": 76,
+        "duration_s": 46626,
+        "complete": false
+      },
       {
         "date": "2026-07-01",
         "file": "data/tracks/CI008/2026-07-01.json",
@@ -33,14 +41,6 @@
         "icao24": "89901b",
         "points": 85,
         "duration_s": 10229,
-        "complete": false
-      },
-      {
-        "date": "2026-06-16",
-        "file": "data/tracks/CI008/2026-06-16.json",
-        "icao24": "89901c",
-        "points": 94,
-        "duration_s": 9648,
         "complete": false
       }
     ],
@@ -242,6 +242,14 @@
     ],
     "QF28": [
       {
+        "date": "2026-07-02",
+        "file": "data/tracks/QF28/2026-07-02.json",
+        "icao24": "7c8069",
+        "points": 32,
+        "duration_s": 733,
+        "complete": false
+      },
+      {
         "date": "2026-06-26",
         "file": "data/tracks/QF28/2026-06-26.json",
         "icao24": "7c806f",
@@ -272,14 +280,6 @@
         "points": 73,
         "duration_s": 2523,
         "complete": false
-      },
-      {
-        "date": "2026-06-14",
-        "file": "data/tracks/QF28/2026-06-14.json",
-        "icao24": "7c8070",
-        "points": 33,
-        "duration_s": 729,
-        "complete": false
       }
     ],
     "QF63": [
@@ -293,6 +293,14 @@
       }
     ],
     "QF64": [
+      {
+        "date": "2026-07-03",
+        "file": "data/tracks/QF64/2026-07-03.json",
+        "icao24": "7c4923",
+        "points": 106,
+        "duration_s": 5515,
+        "complete": false
+      },
       {
         "date": "2026-06-30",
         "file": "data/tracks/QF64/2026-06-30.json",
@@ -311,6 +319,14 @@
       }
     ],
     "SA223": [
+      {
+        "date": "2026-07-02",
+        "file": "data/tracks/SA223/2026-07-02.json",
+        "icao24": "00b1fb",
+        "points": 61,
+        "duration_s": 2598,
+        "complete": false
+      },
       {
         "date": "2026-06-15",
         "file": "data/tracks/SA223/2026-06-15.json",
