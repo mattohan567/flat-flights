@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-07-10T18:44:56.487Z",
+  "updated": "2026-07-11T04:27:17.215Z",
   "tracks": {
     "CI008": [
       {
@@ -307,6 +307,14 @@
       }
     ],
     "QF63": [
+      {
+        "date": "2026-07-11",
+        "file": "data/tracks/QF63/2026-07-11.json",
+        "icao24": "7c4923",
+        "points": 96,
+        "duration_s": 6989,
+        "complete": false
+      },
       {
         "date": "2026-06-25",
         "file": "data/tracks/QF63/2026-06-25.json",
