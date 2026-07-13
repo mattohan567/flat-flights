@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-07-12T18:08:34.768Z",
+  "updated": "2026-07-13T04:45:19.749Z",
   "tracks": {
     "CI008": [
       {
@@ -171,6 +171,14 @@
       }
     ],
     "LA801": [
+      {
+        "date": "2026-07-12",
+        "file": "data/tracks/LA801/2026-07-12.json",
+        "icao24": "e8020f",
+        "points": 88,
+        "duration_s": 3419,
+        "complete": false
+      },
       {
         "date": "2026-07-11",
         "file": "data/tracks/LA801/2026-07-11.json",
