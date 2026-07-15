@@ -1,14 +1,14 @@
 {
   "v": 1,
-  "updated": "2026-07-15T11:02:29.404Z",
+  "updated": "2026-07-15T18:19:35.925Z",
   "tracks": {
     "CI008": [
       {
         "date": "2026-07-14",
         "file": "data/tracks/CI008/2026-07-14.json",
         "icao24": "899019",
-        "points": 131,
-        "duration_s": 47977,
+        "points": 134,
+        "duration_s": 50420,
         "complete": false
       },
       {
