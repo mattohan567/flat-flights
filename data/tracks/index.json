@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-07-22T04:33:20.407Z",
+  "updated": "2026-07-22T11:19:24.950Z",
   "tracks": {
     "CI008": [
       {
@@ -308,6 +308,14 @@
     ],
     "QF28": [
       {
+        "date": "2026-07-22",
+        "file": "data/tracks/QF28/2026-07-22.json",
+        "icao24": "7c8064",
+        "points": 40,
+        "duration_s": 3255,
+        "complete": false
+      },
+      {
         "date": "2026-07-17",
         "file": "data/tracks/QF28/2026-07-17.json",
         "icao24": "7c806a",
@@ -329,14 +337,6 @@
         "icao24": "7c8069",
         "points": 112,
         "duration_s": 11890,
-        "complete": false
-      },
-      {
-        "date": "2026-06-24",
-        "file": "data/tracks/QF28/2026-06-24.json",
-        "icao24": "7c8068",
-        "points": 82,
-        "duration_s": 3140,
         "complete": false
       },
       {
