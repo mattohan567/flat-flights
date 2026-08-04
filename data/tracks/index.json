@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-03T18:58:25.770Z",
+  "updated": "2026-08-04T04:29:51.905Z",
   "tracks": {
     "CI008": [
       {
@@ -88,11 +88,11 @@
     ],
     "CX841": [
       {
-        "date": "2026-06-25",
-        "file": "data/tracks/CX841/2026-06-25.json",
-        "icao24": "789243",
-        "points": 134,
-        "duration_s": 39079,
+        "date": "2026-08-03",
+        "file": "data/tracks/CX841/2026-08-03.json",
+        "icao24": "789234",
+        "points": 120,
+        "duration_s": 48233,
         "complete": false
       },
       {
